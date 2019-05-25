@@ -32,6 +32,10 @@ footer .container-footer{
     padding: 5px;
 }
 
+p{
+    margin: 0;
+}
+
 nav{
     display: grid;
     grid-template-columns: 15% 85%;
