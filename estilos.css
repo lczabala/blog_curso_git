@@ -1,10 +1,16 @@
 body{
-    background: rosybrown;
+    background: rgb(50, 99, 235);
+    font-family: 'Roboto', sans-serif;
+}
+.container{
+    text-align: center;
+    margin: 50px auto;
+    width: 70%;
+    border: 1px solid  rgb(255, 185, 127);
+    border-radius: 5px;
+    padding: 7px;
 }
 h1{
-    color: aquamarine
+    color: rgb(255, 185, 127)
 }
 
-p{
-    text-align: center;
-}
