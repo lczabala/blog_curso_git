@@ -13,4 +13,24 @@ body{
 h1{
     color: rgb(255, 185, 127)
 }
+footer{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+}
 
+footer .container-footer{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    color: white;
+    font-weight: 300;
+    text-align: center;
+    background: rgb(128, 133, 127);
+    padding: 5px;
+}
+
+p{    
+    margin: 0;
+}
